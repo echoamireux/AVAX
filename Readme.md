@@ -1,7 +1,7 @@
 Datahub Link: https://datahub.figment.io/services/avalanche
 First,open your terminal，then：
 * run the following command to download the project:
-  git clone 
+  git clone https://github.com/echoamireux/AVAX.git
 * run the following command to Switch to the project directory:
   cd AVAX
 * run the following command to create a directory for your project where you will initialize the new Node.js project:
