@@ -10,7 +10,7 @@ First,open your terminal，then：
 * Run the following command to create a directory for your project where you will initialize the new Node.js project:
   
   npm init -y
-* run the following command to install all dependencies:
+* Run the following command to install all dependencies:
   
   npm install --save avalanche dotenv:
 * Replace "NODE_API_KEY" in .env file with your API KEY, you can find your API KEY in https://datahub.figment.io/services/avalanche
