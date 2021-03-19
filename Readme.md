@@ -13,7 +13,7 @@ First,open your terminal，then：
 * run the following command to install all dependencies:
   
   npm install --save avalanche dotenv:
-* Replace "NODE_API_KEY" in .env file with your API KEY,You can find your API KEY in https://datahub.figment.io/services/avalanche
+* Replace "NODE_API_KEY" in .env file with your API KEY, you can find your API KEY in https://datahub.figment.io/services/avalanche
 
 # Task 1
 * Run the following command to complete the task1:
