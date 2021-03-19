@@ -41,7 +41,7 @@ First,open your terminal，then：
 * Run the following command  import a new javascript package ethereumjs-util to deal with Ethereum-based credentials:
   
   npm install --save ethereumjs-util
-* Run the following commang to complete the task5:
+* Run the following command to complete the task5:
   
   node interchain_transfer.js
 
